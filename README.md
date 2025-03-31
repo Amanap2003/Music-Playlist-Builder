@@ -17,7 +17,9 @@ instead of user specified parameter (Total Listen Time) i.e. the total time user
 
 ### Looks like:
 <p align = "center" >
-<img src="https://github.com/user-attachments/assets/ce2810c6-f48d-4718-8af2-917d353be29f" height = 500px width = 620px>
+<!-- <img src="https://github.com/user-attachments/assets/ce2810c6-f48d-4718-8af2-917d353be29f" height = 500px width = 620px> -->
+<img src="./Look.png" height = 500px width = 620px>
+ 
 </p>
 <!-- ![image](https://github.com/user-attachments/assets/ce2810c6-f48d-4718-8af2-917d353be29f) -->
 
